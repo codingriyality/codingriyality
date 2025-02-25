@@ -2,7 +2,7 @@
 
 🌱 I’m an aspiring Data Scientist :bar_chart: with a background in Bioengineering :dna:
 
-:space_invader: This github contains copy of my work + new projects I am working on
+:space_invader: This github contains copy of my work (old and new)
 
 📫 How to reach me: riyamathur6739@gmail.com
 
