@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-🌱 I’m an aspiring data scientist :bar_chart: with a background in Bioengineering :dna:
+🌱 I’m an aspiring Data Scientist :bar_chart: with a background in Bioengineering :dna:
 
 :space_invader: This github contains copy of my work + new projects I am working on
 
